@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
-project_name = 'TeaSciknessClassification'
+project_name = 'TeaSicknessClassification'
 
 list_of_files=[
     ".github/workflows/.gitkeep",
@@ -22,6 +22,7 @@ list_of_files=[
     "requirements.txt",
     "setup.py",
     "research/trials.ipynb",
+    "templates/index.html"
 
 ]
 
