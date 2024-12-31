@@ -12,7 +12,7 @@ Update the main.py
 Update the dvc.yaml
 
 
-## How to run?
+<!-- ## How to run?
 STEPS:
 Clone the repository
 
@@ -110,4 +110,4 @@ Deployment Steps:
 Build the Docker image of the Source Code
 Push the Docker image to Container Registry
 Launch the Web App Server in Azure
-Pull the Docker image from the container registry to Web App server and run
+Pull the Docker image from the container registry to Web App server and run -->
